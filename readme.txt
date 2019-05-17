@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 
 Change
 Change-1
+Change-2
